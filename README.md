@@ -13,4 +13,3 @@ Modulation transfer function (MTF) is a commonly used measure to compare the per
 
 NOTE - Since the creation of new project for openCL implementation is creating many errors, an existing project template "OpenCLExercise3_Sobel" is used for implementation of MTF.
 
-
