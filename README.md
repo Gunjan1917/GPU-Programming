@@ -12,4 +12,3 @@ Modulation transfer function (MTF) is a commonly used measure to compare the per
 - Documentation of the project including results and runtimes of GPU, CPU can be found in MTF_lab_Report_with_RMSE_results.pdf
 
 NOTE - Since the creation of new project for openCL implementation is creating many errors, an existing project template "OpenCLExercise3_Sobel" is used for implementation of MTF.
-
